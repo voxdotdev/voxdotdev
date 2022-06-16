@@ -17,4 +17,4 @@ Here are some ideas to get you started:
 
 - 🌱 I’m currently learning more about PowerShell, Python, Javascript, git
 - 👯 I’m looking to collaborate on automation projects. Scripting ideas welcome!
-- 📫 How to reach me: Discord: Vox#9590
+- 📫 Discord: Vox#9590 - drop me a message!
