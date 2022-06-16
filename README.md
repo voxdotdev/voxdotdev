@@ -15,6 +15,6 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-- 🌱 I’m currently learning more about PowerShell, Python, Javascript
+- 🌱 I’m currently learning more about PowerShell, Python, Javascript, git
 - 👯 I’m looking to collaborate on automation projects. Scripting ideas welcome!
 - 📫 How to reach me: Vox#9590
