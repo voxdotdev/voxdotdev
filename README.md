@@ -17,5 +17,6 @@ Here are some ideas to get you started:
 
 - 🌱 I’m currently learning more about PowerShell, Python, Javascript. 
 - Repos you find here are built to teach myself with various resources, while (hopefully) assisting others. 
-- 📫 Discord: Vox#9590 - drop me a message! Please note friend requests without a message will be discarded. 
+- 📫 Discord: Vox#9590 - drop me a message! 
+- - Please note friend requests without a message will be discarded due to spam.
 - 💬 Ask me about: Automation / Scripting, Data Analysis, Video Game Assets
