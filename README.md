@@ -18,3 +18,10 @@ Here are some ideas to get you started:
 - Repos you find here are built to teach myself with various resources, while hopefully eventually assisting others. 
 - 📫 Discord: Vox#9590 - drop me a message! 
 - 💬 Ask me about: Automation / Scripting, Data Analysis, Video Game Assets
+
+WIDGETS ARE NEAT, HERE ARE SOME NOW. 
+
+**Codewars**</br>
+[![Codewars Badge](https://www.codewars.com/users/voxdotdev/badges/large)](https://www.codewars.com/users/voxdotdev)
+
+![](https://komarev.com/ghpvc/?username=voxdotdev&color=grey&label=visitors)
